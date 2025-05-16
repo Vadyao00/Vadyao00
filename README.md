@@ -1,5 +1,4 @@
 # Vadim Ivashko
-## I'm beginner Software Engeneer
 
 ## Tech Stack
 
